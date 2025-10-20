@@ -1,3 +1,4 @@
+/* fix layout */
 ytd-rich-item-renderer[is-in-first-column=""] {
   margin-left: calc(var(--ytd-rich-grid-item-margin) / 2) !important;
 }
